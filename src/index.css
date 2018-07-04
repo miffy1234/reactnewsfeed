@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: royalblue;
+}
+.news{
+background-color: royalblue;
+width: 600px;
+height: 500px;
+margin: 0px auto;
+}

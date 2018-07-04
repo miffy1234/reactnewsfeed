@@ -1,2 +1,0 @@
-# reactnewsfeed
-Created with CodeSandbox
